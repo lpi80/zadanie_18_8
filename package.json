@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/lpi80/zadanie_18_7.git#readme",
   "devDependencies": {
+    "babel-polyfill": "^6.26.0",
     "babel-standalone": "^6.26.0",
     "browser-sync": "^2.26.3",
     "globstar": "^1.0.0",
